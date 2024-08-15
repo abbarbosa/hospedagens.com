@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Quicksand:wght@300..700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+.main{
+    background-image: linear-gradient(to right,#1E52B4, #002777);
+    width: 100%;
+    height: 461px;
+}
+
+.tittle-main{
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    color: white;
+    margin-top: 5%;
+    margin-left: 50px;
+    size: 18;
+    line-height: 33.6px;
+}
+
+.text-main{
+    line-height: 27px;
+    font-family: "Lato", sans-serif;
+    color: white;
+    
+}
+
+
+.logo-branca{
+    width: 155.58px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
